@@ -1,7 +1,7 @@
 ## Olá! Eu sou Lucas José. 👋
 
 - Cursando Análise e Desenvolvimento de Sistemas.
-- Estou estudando Cloud AWS, Python, HTML, CSS e Javascript.
+- Estou estudando Cloud AWS, Terraform (IaC), Python, HTML, CSS e Javascript.
   ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
