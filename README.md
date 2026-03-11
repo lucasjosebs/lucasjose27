@@ -1,6 +1,10 @@
 # Olá, eu sou o Lucas José! 👋
 
-![Banner](link-da-sua-imagem)
+![Banner](img/lucas_banner.png)
+
+## Acadêmico em ADS | Cloud & DevOps Enthusiast | AWS Re/Start
+
+Atualmente, estou unindo minha base acadêmica em **Análise e Desenvolvimento de Sistemas** com a especialização em **Cloud Computing**. Meu foco é construir infraestruturas escaláveis, seguras e automatizadas utilizando o ecossistema **AWS** e **Terraform**.
 
 ### ☁️ Sobre Mim
 Sou um entusiasta de tecnologia em transição para a área de Cloud e DevOps. Tenho focado meus estudos em arquitetura AWS e automação de infraestrutura.
