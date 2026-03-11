@@ -48,6 +48,6 @@ Sou um entusiasta de tecnologia em transição para a área de Cloud e DevOps. T
 
 
 ### 📫 Vamos nos conectar?
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/lucasjosebs/) | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)      [E-mail](lucasjosebs27@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lucasjosebs/) | [E-mail](lucasjosebs27@gmail.com)
 
 
