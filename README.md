@@ -28,7 +28,7 @@ Sou um entusiasta de tecnologia em transição para a área de Cloud e DevOps. T
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | [**Servidor Web AWS-VPC**](https://github.com/lucasjosebs/servidor-web-aws-vpc) | Implementação de infraestrutura de rede robusta com instâncias EC2 e segregação de sub-redes. | `AWS` `VPC` `EC2` `Linux` |
-| [**Terraform Lab**](SEU_LINK_AQUI) | Automação de infraestrutura como código (IaC) focada em escalabilidade e versionamento com tfenv. | `Terraform` `HCL` `IaC` |
+| [**Terraform Lab**](https://github.com/lucasjosebs/estudos-terraform) | Automação de infraestrutura como código (IaC) focada em escalabilidade e versionamento com tfenv. | `Terraform` `HCL` `IaC` |
 
 ---
 
@@ -39,7 +39,7 @@ Sou um entusiasta de tecnologia em transição para a área de Cloud e DevOps. T
 * **Segurança:** Configuração de *Security Groups* e *Network ACLs* para controle de tráfego.
 * **Automação:** Uso de *User Data* para instalação automática de servidores Apache/Nginx no boot da instância.
 
-#### 🤖 [Automação com Terraform](SEU_LINK_AQUI)
+#### 🤖 [Automação com Terraform](https://github.com/lucasjosebs/estudos-terraform)
 * **Versionamento:** Controle de versões do provider utilizando **tfenv**.
 * **Gestão de Estado:** Manipulação de arquivos de estado (`.tfstate`) e variáveis de ambiente.
 * **Componentização:** Criação de recursos reutilizáveis para instâncias e armazenamento S3.
