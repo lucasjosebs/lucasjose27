@@ -14,6 +14,7 @@ Sou um entusiasta de tecnologia em transição para a área de Cloud e DevOps. T
 - 📖 Estou me dedicando aos estudos focados em Linux e Infraestrutura como Código.
 
 ### 🛠️ Tecnologias
+
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -22,10 +23,31 @@ Sou um entusiasta de tecnologia em transição para a área de Cloud e DevOps. T
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Estatísticas
-![Stats de Lucas](https://github-readme-stats.vercel.app/api?username=lucasjosebs&show_icons=true&theme=radical)
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| [**Servidor Web AWS-VPC**](https://github.com/lucasjosebs/servidor-web-aws-vpc) | Implementação de infraestrutura de rede robusta com instâncias EC2 e segregação de sub-redes. | `AWS` `VPC` `EC2` `Linux` |
+| [**Terraform Lab**](SEU_LINK_AQUI) | Automação de infraestrutura como código (IaC) focada em escalabilidade e versionamento com tfenv. | `Terraform` `HCL` `IaC` |
+
+---
+
+### 🛠️ Detalhes Técnicos dos Projetos
+
+#### ☁️ [Servidor Web AWS-VPC](https://github.com/lucasjosebs/servidor-web-aws-vpc)
+* **Provisionamento:** Criação de VPC customizada, Subnets (Públicas/Privadas) e Internet Gateway.
+* **Segurança:** Configuração de *Security Groups* e *Network ACLs* para controle de tráfego.
+* **Automação:** Uso de *User Data* para instalação automática de servidores Apache/Nginx no boot da instância.
+
+#### 🤖 [Automação com Terraform](SEU_LINK_AQUI)
+* **Versionamento:** Controle de versões do provider utilizando **tfenv**.
+* **Gestão de Estado:** Manipulação de arquivos de estado (`.tfstate`) e variáveis de ambiente.
+* **Componentização:** Criação de recursos reutilizáveis para instâncias e armazenamento S3.
+
+---
+
 
 ### 📫 Vamos nos conectar?
-[LinkedIn](https://www.linkedin.com/in/lucasjosebs/) | [E-mail](lucasjosebs27@gmail.com)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/lucasjosebs/) | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)      [E-mail](lucasjosebs27@gmail.com)
 
 
